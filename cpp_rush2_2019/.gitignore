@@ -1,0 +1,6 @@
+.vscode/settings.json
+*.o
+a.out
+unit_tests
+simulator
+vgcore.*
